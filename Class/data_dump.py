@@ -20,7 +20,6 @@ data =[
 ]
 
 
-
 def formatter(some_list):
     for item in some_list:
         for key in item.items():
